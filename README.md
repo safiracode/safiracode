@@ -1,6 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF00FF&section=header&fontSize=0&fontColor=FFFFFF">
 
-# Hello, world! <img width="2.5%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif"/> <img width="2.5%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif"/>
+<div align="center">
+  <h1>
+    Hello, world! 
+    <img width="2.5%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif"/>
+    <img width="2.5%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif"/>
+  </h1>
+</div>
+
 
 #### Me chamo Safira Moraes, sou estudante de Sistemas de Informação e estou desbravando o universo tech!
 
