@@ -3,8 +3,8 @@
 <div align="center">
   <h1>
     Hello, world! 
-    <img width="2.5%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif"/>
-    <img width="2.5%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif"/>
+    <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif"/>
+    <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif"/>
   </h1>
 </div>
 
